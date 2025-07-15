@@ -1,6 +1,6 @@
 # amazon_app
 
-A new Flutter project.
+This is Amazon Clone App using flutter.
 
 ## Getting Started
 
